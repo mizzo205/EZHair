@@ -75,9 +75,9 @@ This is an app that enables hair appointment-based businesses to take online boo
 ### [BONUS] Interactive Prototype
 
 ## Schema 
-[This section will be completed in Unit 9]
+
 ### Models
-[Add table of models]
+<https://i.imgur.com/DBi3eVk.png>
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
